@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Goniômetro com Nônio S.M com precisão de 5 Minutos.exe",
+    "group": "Goniômetro - 14ª e 15ª Questão",
+    "file": "01.swf",
+    "width": 770.0,
+    "height": 574.0
+  },
+  {
+    "id": 2,
+    "name": "Goniômetro Simples S.M com Precisão de 1°.exe",
+    "group": "Goniômetro - 14ª e 15ª Questão",
+    "file": "02.swf",
+    "width": 770.0,
+    "height": 574.0
+  },
+  {
+    "id": 3,
+    "name": "Micrometro S.I Com Nonio.exe",
+    "group": "Micrômetro Sistema Inglês - 10ª e 11ª Questão",
+    "file": "03.swf",
+    "width": 770.0,
+    "height": 684.0
+  },
+  {
+    "id": 4,
+    "name": "Micrometro S.I Sem Nonio.exe",
+    "group": "Micrômetro Sistema Inglês - 10ª e 11ª Questão",
+    "file": "04.swf",
+    "width": 770.0,
+    "height": 684.0
+  },
+  {
+    "id": 5,
+    "name": "Micrometro S.M Com Nonio.exe",
+    "group": "Micrômetro Sistema Métrico - 8ª e 9ª Questão",
+    "file": "05.swf",
+    "width": 770.0,
+    "height": 684.0
+  },
+  {
+    "id": 6,
+    "name": "Micrometro S.M Sem Nonio.exe",
+    "group": "Micrômetro Sistema Métrico - 8ª e 9ª Questão",
+    "file": "06.swf",
+    "width": 770.0,
+    "height": 684.0
+  },
+  {
+    "id": 7,
+    "name": "3 - Paquímetro S.I.M com Precisão de 0,001.exe",
+    "group": "Paquímetro Sistema Inglês - 4ª e 5ª Questão",
+    "file": "07.swf",
+    "width": 2880.0,
+    "height": 1350.0
+  },
+  {
+    "id": 8,
+    "name": "4 - Paquímetro com Relógio S.I.M com Precisão de 0,001.exe",
+    "group": "Paquímetro Sistema Inglês - 4ª e 5ª Questão",
+    "file": "08.swf",
+    "width": 2880.0,
+    "height": 1350.0
+  },
+  {
+    "id": 9,
+    "name": "2 - Paquímetro S.I.F com Precisão de 1 para 128.exe",
+    "group": "Paquímetro Sistema Inglês fracionário - 6ª e 7ª Questão",
+    "file": "09.swf",
+    "width": 2880.0,
+    "height": 1350.0
+  },
+  {
+    "id": 10,
+    "name": "4 - Paquímetro com Relógio S.I.F com Precisão de 1 para 64.exe",
+    "group": "Paquímetro Sistema Inglês fracionário - 6ª e 7ª Questão",
+    "file": "10.swf",
+    "width": 2880.0,
+    "height": 1350.0
+  },
+  {
+    "id": 11,
+    "name": "Paquimetro com Relógio S.M Precisão de 0,01mm.exe",
+    "group": "Paquímetro Sistema Métrico - 1ª, 2ª e 3ª Questão",
+    "file": "11.swf",
+    "width": 2880.0,
+    "height": 1350.0
+  },
+  {
+    "id": 12,
+    "name": "Paquímetro S.M Precisão de 0,02mm.exe",
+    "group": "Paquímetro Sistema Métrico - 1ª, 2ª e 3ª Questão",
+    "file": "12.swf",
+    "width": 2880.0,
+    "height": 1350.0
+  },
+  {
+    "id": 13,
+    "name": "Paquímetro S.M Precisão de 0,05mm.exe",
+    "group": "Paquímetro Sistema Métrico - 1ª, 2ª e 3ª Questão",
+    "file": "13.swf",
+    "width": 2880.0,
+    "height": 1350.0
+  },
+  {
+    "id": 14,
+    "name": "Relógio Comparador S.I com Precisão de 0,001.exe",
+    "group": "Relógio Comparador Sistema Inglês - 13ª Questão",
+    "file": "14.swf",
+    "width": 1500.0,
+    "height": 2600.0
+  },
+  {
+    "id": 15,
+    "name": "Relógio Comparador S.M com Precisão de 0,01.exe",
+    "group": "Relógio Comparador Sistema Métrico - 12ª Questão",
+    "file": "15.swf",
+    "width": 1500.0,
+    "height": 2600.0
+  }
+]
